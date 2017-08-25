@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dotnetcoreonlinux:
+    image: dotnetcoreonlinux
+    build:
+      context: ./dotnetcoreonlinux
+      dockerfile: Dockerfile

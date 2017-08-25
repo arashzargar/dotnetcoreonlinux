@@ -1,0 +1,11 @@
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\bin\Debug\netcoreapp1.0\dotnetcoreonlinux.deps.json
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\bin\Debug\netcoreapp1.0\dotnetcoreonlinux.runtimeconfig.json
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\bin\Debug\netcoreapp1.0\dotnetcoreonlinux.runtimeconfig.dev.json
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\bin\Debug\netcoreapp1.0\dotnetcoreonlinux.dll
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\bin\Debug\netcoreapp1.0\dotnetcoreonlinux.pdb
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\obj\Debug\netcoreapp1.0\dotnetcoreonlinux.csprojResolveAssemblyReference.cache
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\obj\Debug\netcoreapp1.0\dotnetcoreonlinux.csproj.CoreCompileInputs.cache
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\obj\Debug\netcoreapp1.0\dotnetcoreonlinux.AssemblyInfoInputs.cache
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\obj\Debug\netcoreapp1.0\dotnetcoreonlinux.AssemblyInfo.cs
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\obj\Debug\netcoreapp1.0\dotnetcoreonlinux.dll
+C:\Users\azbalaye\source\repos\dotnetcoreonlinux\dotnetcoreonlinux\obj\Debug\netcoreapp1.0\dotnetcoreonlinux.pdb
